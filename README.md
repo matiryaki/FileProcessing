@@ -1,2 +1,3 @@
 # FileProcessing
-Belirli dosya türlerini verilen konuma saklama, listeleme işlemlerini yapar.
+
+Project that uploads specific file types to a specified location using Spring Boot.
